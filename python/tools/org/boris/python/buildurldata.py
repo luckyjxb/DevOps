@@ -32,3 +32,4 @@ for i in range(1, 2):
             print "文件:"+filename+"--"+str(count)
     writer.writerows(data)
     csvfile.close()
+//增加测试
