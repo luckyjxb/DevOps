@@ -3,6 +3,9 @@ import pandas as pd
 import numpy as np
 #import matplotlib.pyplot as plt
 
+
+#先要安装
+#http://www.jb51.net/article/78667.htm
 def __printline__(titles='',data=None):
     print '###############################################################'
     print titles
